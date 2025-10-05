@@ -1,4 +1,10 @@
-# yaydl
+# yaydl (forking to add support for B站)
+
+CURRENT TODOs:
+
+  - add support for Bilibili
+  - remove unused sites
+  - add Playwright for robustness
 
 [![Crates.io](https://img.shields.io/crates/v/yaydl)](https://crates.io/crates/yaydl)
 
